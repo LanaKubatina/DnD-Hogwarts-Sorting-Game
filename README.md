@@ -2,11 +2,9 @@
 
 ## Overview
 
-This Mini Sorting Challenge is an interactive, adaptive, gamified personality‑sorting experience built in Articulate Storyline 360.  
-Players choose a class from DnD, answer scenario‑based questions, earn points for four Hogwarts houses, activate special abilities, and unlock badges based on their choices.  
-At the end, the Sorting Hat reveals the player’s final house — or, if multiple houses tie, invites the player to make a personal choice through a short tie‑breaker quiz.
+A gamified sorting experience where players choose a class from Dungeons and Dragons, answer scenario‑based questions, earn points for four Hogwarts houses, activate special abilities, and unlock badges based on their choices. At the end, the Sorting Hat reveals the player’s final house or, if multiple houses tie, invites the player to make a personal choice through a short tie‑breaker quiz.
 
-The project is designed as a portfolio piece showcasing advanced Storyline techniques including:
+The project is designed as a portfolio piece showcasing advanced Storyline techniques, including:
 
 - Adaptive scoring and branching  
 - GSAP‑powered animated progress bars  
@@ -18,7 +16,7 @@ The project is designed as a portfolio piece showcasing advanced Storyline techn
 ## Features
 
 ### Adaptive Scoring  
-Each question awards different points to each houses. Scores update visually using GSAP animations applied to Storyline shapes.
+Each question awards different points to each house. Scores update visually using GSAP animations applied to Storyline shapes.
 
 ### Character Abilities  
 Players choose a character class (Artificer, Druid, Paladin, Rogue). Each class has a one‑time ability that influences gameplay.
